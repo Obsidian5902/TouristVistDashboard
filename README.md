@@ -12,3 +12,10 @@ In this project, I used random data in an Excel sheet to make a decent dashboard
 #### Software Used ###
 1. Microsoft Excel
 2. Power-Bi
+
+### Virtual Look ###
+
+
+
+
+![DashBoard](https://github.com/user-attachments/assets/c9f3c0f1-5cef-4c84-a294-2fd59eaf46ef)
